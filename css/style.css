@@ -1,0 +1,14 @@
+
+image {
+    width: 100%;
+}
+
+.item-image {
+    width: 550px;
+    margin: auto;
+}
+
+.item-image  img {
+    width: 100%;
+    margin: auto;
+}
